@@ -1,0 +1,30 @@
+h1{
+text-align: center;
+
+}
+/* image 1  */
+img{
+    margin-left: 15cm;
+    margin-right: 15cm;
+    box-shadow: 2px,2px;
+}
+/* Main content */
+.content{
+    background: linear-gradient(117deg, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    padding: 25px 25px;
+    margin: 265px;
+    margin-top: 50px;
+    border-radius: 8%;
+    font-family: Palatino Linotype;
+}
+body{
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(173,148,233,0.3113620448179272) 100%);
+}
+/* After image description */
+#description{
+    text-align: center;
+    font-family: Jazz LET;
+    font-weight: bold;
+}
